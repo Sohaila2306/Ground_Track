@@ -1,0 +1,14 @@
+ISS (ZARYA) over 30.0444, 31.2357: passes above 10 degrees in the next 48 hours (times in Africa/Cairo)
+Orbit data: built from orbital elements; measured 2026-01-01 00:00 UTC
+
+#  Rises                    Highest        Sets          Length
+-  -----------------------  -------------  ------------  ------
+1  Thu 01 Jan 12:05:50  SW  12:09:20  81°  12:12:31  NE  6m 41s
+2  Thu 01 Jan 20:16:10  NW  20:19:40  79°  20:22:51  SE  6m 41s
+3  Fri 02 Jan 11:18:36  SW  11:21:40  43°  11:24:58  NE  6m 22s
+4  Fri 02 Jan 12:56:49  W   12:58:40  14°  13:00:40  N   3m 51s
+5  Fri 02 Jan 19:28:53  NW  19:32:00  40°  19:35:14  SE  6m 21s
+6  Fri 02 Jan 21:07:15  W   21:08:40  12°  21:09:52  SW  2m 36s
+
+Above the horizon is not the same as visible: you also need a dark sky and a sunlit satellite.
+Saved /mnt/user-data/outputs/Satellite_Orbits/docs/images/iss_passes.png
