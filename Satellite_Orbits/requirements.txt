@@ -1,0 +1,7 @@
+skyfield>=1.46
+numpy>=1.21
+matplotlib>=3.5
+tzdata; sys_platform == "win32"
+
+# Optional, for a real coastline map instead of a plain grid:
+#   pip install cartopy
